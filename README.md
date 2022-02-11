@@ -1,4 +1,4 @@
-# realized in coding 'overwatchpage-responsive'r☀️
+# realized in coding 'overwatchpage-responsiver'☀️
 
 1. max-width -> 이걸 잘 활용해야 responsive한 웹 사이트를 편하게 만들 수 있다. ex) max-width: 500px -> 0~500px 까지 자유로움 500px를 기본으로 한다.
 
